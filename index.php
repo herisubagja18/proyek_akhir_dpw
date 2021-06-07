@@ -36,7 +36,7 @@ if (!$_SESSION["login"]) {
 
 <content>
 	<div class="container-2">
-		<img src="gambar/intro.jpg">
+		<img src="intro.jpg">
 
 		<p style="font-family: arial;">Coronavirus merupakan keluarga besar virus yang menyebabkan penyakit pada manusia dan hewan. Pada manusia biasanya menyebabkan penyakit infeksi saluran pernapasan, mulai flu biasa hingga penyakit yang
 		serius seperti Middle East Respiratory Syndrome (MERS) dan Sindrom Pernafasan Akut Berat/ Severe Acute Respiratory Syndrome (SARS). Coronavirus jenis baru yang ditemukan pada manusia sejak kejadian luar biasa
