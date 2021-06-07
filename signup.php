@@ -25,7 +25,6 @@ function sign_up($data) {
 	return $affected;
 }
 
-// percabangan
 if (isset($_POST["sign-up"])) {
 	if (sign_up($_POST) > 0) {
 		echo "<script>
