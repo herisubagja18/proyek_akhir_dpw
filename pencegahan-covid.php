@@ -36,11 +36,11 @@ if (!isset($_SESSION['login'])) {
 <content>
 	<div class="container-2">
 		<center><p id="keterangan">5 M (Memakai Masker, Mencuci Tangan, Menjaga Jarak, Menjauhi Kerumunan, Mengurangi Mobilitas).</p></center>
-		<p><img src="gambar/masker.jpg" id="gambar">
-			<img src="gambar/cuci-tangan.jpg" id="gambar">
-			<img src="gambar/jaga-jarak.jpg" id="gambar">
-			<img src="gambar/menjauhi-kerumunan.jpg" id="gambar">
-			<img src="gambar/mobilitas.jpg" id="gambar"></p>
+		<p><img src="masker.jpg" id="gambar">
+			<img src="cuci-tangan.jpg" id="gambar">
+			<img src="jaga-jarak.jpg" id="gambar">
+			<img src="menjauhi-kerumunan.jpg" id="gambar">
+			<img src="mobilitas.jpg" id="gambar"></p>
 	</div>
 </content>
 
