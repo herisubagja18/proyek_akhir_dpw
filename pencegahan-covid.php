@@ -36,6 +36,13 @@ if (!isset($_SESSION['login'])) {
 <content>
 	<div class="container-2">
 		<center><p id="keterangan">5 M (Memakai Masker, Mencuci Tangan, Menjaga Jarak, Menjauhi Kerumunan, Mengurangi Mobilitas).</p></center>
+		<ol>
+			<li>Menggunakan masker pada saat pandemi COVID-19 merupakan hal yang wajib dipakai terutama ketika bepergian keluar rumah. Masker menjadi hal yang esensial karena mampu menangkal virus ataupun bakteri yang akan masuk ke mulut ataupun hidung seseorang.</li>
+			<li>Virus Covid-19 (SARS-CoV-2) bisa berada di mana saja, menempel di benda-benda yang ada di sekitar kita. Cara yang paling efektif untuk mencegah penularan virus tersebut adalah dengan sering mencuci tangan pakai sabun.</li>
+			<li>Data yang dimiliki pemerintah, sebaran droplet sejauh 1 meter dan dapat menempel pada benda sekitar. Oleh karenanya mereka yang berjarak kurang dari 1 meter dan memegang benda yang terpapar droplet kemudian tangan yang sudah tersemar menyentuh area wajah, sangat memungkinkan terjadinya penularan.</li>
+			<li>Orang dapat tertular COVID-19 dari orang lain yang terinfeksi virus ini. COVID-19 dapat menyebar terutama dari orang ke orang melalui percikan-percikan dari hidung atau mulut yang keluar saat orang yang terinfeksi COVID-19 batuk, bersin atau berbicara. Maka dari itu kita harus hindari kerumunan.</li>
+			<li>Jika tidak ada keperluan yang mendesak, tetaplah berada di rumah. Meski sehat dan tidak ada gejala penyakit, belum tentu Anda pulang ke rumah dengan keadaan yang masih sama.</li>
+		</ol>
 		<p><img src="masker.jpg" id="gambar">
 			<img src="cuci-tangan.jpg" id="gambar">
 			<img src="jaga-jarak.jpg" id="gambar">
